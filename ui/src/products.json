@@ -1,0 +1,50 @@
+[
+  {
+    "vendorCode": "1",
+    "product": "Lufthansa LH 2230",
+    "carrierFlightNumber": "LH/2230",
+    "details": "Lufthansa Flight LH 2230 from Munich (MUC) to Paris (CDG)",
+    "date": "20/02/2020",
+    "departure": "13:30",
+    "arrival": "15:05",
+    "image": "/assets/lufthansa.jpg",
+    "price": "15.60",
+    "currency": "EUR",
+    "departureYearMonthDay": "2020-02-20",
+    "departureTime": 1590000000,
+    "arrivalTime": 1590200000,
+    "payoutOptions": [0,0,20,30,30]
+  },
+  {
+    "vendorCode": "2",
+    "product": "United Airlines UA 1003",
+    "carrierFlightNumber": "UA/1003",
+    "details": "United Airlines Flight UA 1003 from Chicago (ORD) to Atlanta (ATL)",
+    "date": "20/02/2020",
+    "departure": "14:00",
+    "arrival": "17:08",
+    "image": "/assets/united.png",
+    "price": "25",
+    "currency": "EUR",
+    "departureYearMonthDay": "2020-02-20",
+    "departureTime": 1590000000,
+    "arrivalTime": 1590200000,
+    "payoutOptions": [0,0,20,30,30]
+  },
+  {
+    "vendorCode": "3",
+    "product": "KLM KL 1105",
+    "carrierFlightNumber": "KL/1105",
+    "details": "KLM Flight KL 1105 from Amsterdam (AMS) to Stockholm (ARN)",
+    "date": "20/02/2020",
+    "departure": "06:50",
+    "arrival": "08:55",
+    "image": "/assets/klm.png",
+    "price": "17.50",
+    "currency": "EUR",
+    "departureYearMonthDay": "2020-02-20",
+    "departureTime": 1590000000,
+    "arrivalTime": 1590200000,
+    "payoutOptions": [0,0,20,30,30]
+  }
+]
