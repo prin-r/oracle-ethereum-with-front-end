@@ -1,0 +1,15 @@
+.idea
+.DS_Store
+lerna-debug.log
+**/node_modules
+**/build
+**/verification
+**/coverage
+**/coverage.json
+**/coverageEnv
+**/scTopics
+**/.nyc_output
+**/.env
+docs/ast
+temp
+/fdd_chainlink_contracts/migrations/
